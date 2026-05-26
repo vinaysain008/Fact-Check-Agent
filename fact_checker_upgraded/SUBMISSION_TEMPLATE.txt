@@ -1,0 +1,13 @@
+Assessment Submission - Fact Check Agent
+
+Deployed App Link:
+<add streamlit link here>
+
+GitHub Repository:
+<add github repo link here>
+
+Demo Video:
+<add drive/video link here>
+
+Notes:
+The app allows a user to upload a PDF, extracts factual claims such as statistics, dates, percentages and market figures, checks them against live web search results, and flags them as Verified, Inaccurate or False.
